@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     direction LR
 
@@ -71,3 +72,4 @@ classDiagram
     Animal <|-- Dog
     IClock <|.. SystemClock
     IClock <|.. TestClock
+```
